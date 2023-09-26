@@ -11,6 +11,11 @@ body{
   background-color: #c6dbd9;
   color: #383838;
 }
+
+.contenido > h1{
+  font-size: 3rem;
+}
+
 .contenido{
   flex-grow: 1;
   display: flex;

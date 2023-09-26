@@ -52,7 +52,7 @@
       <div class="contenido">
         <div class="izquierda">
           <h2>Equipo</h2>
-          <h4>Somos un equipo de psicólogos comprometidos con acompañar a profesionales sanitarios en su crecimiento laboral y personal.</h4>
+          <h4>Nuestro equipo está formado por psicólogos especializados en diversas áreas, de manera complementaria a su labor profesional, este equipo acompaña a los profesionales sanitarios en su desarrollo profesional y personal. </h4>
         </div>
         <div class="separador"></div>
         <div class="derecha">

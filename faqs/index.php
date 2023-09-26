@@ -15,7 +15,7 @@
   require_once("../require/nav.php");
   ?>
   <div class="contenido">
-    <h2>Preguntas frecuentes</h2>
+    <h1>Preguntas frecuentes</h1>
     <div class="accordion">
       <div class="accordion-item">
         <button id="accordion-button-1" aria-expanded="false">
